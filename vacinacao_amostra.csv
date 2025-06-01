@@ -1,0 +1,11 @@
+paciente_idade;paciente_enumsexo;vacina_dataAplicacao;vacina_descricao_dose;estabelecimento_municipio_nome
+25;F;01/07/2021;1ª Dose;São Paulo
+34;M;02/07/2021;2ª Dose;Rio de Janeiro
+45;F;03/07/2021;1ª Dose;Belo Horizonte
+60;M;04/07/2021;Dose Reforço;Curitiba
+70;F;05/07/2021;1ª Dose;Salvador
+29;M;06/07/2021;2ª Dose;Fortaleza
+33;F;07/07/2021;1ª Dose;Recife
+56;M;08/07/2021;Dose Reforço;Manaus
+40;F;09/07/2021;2ª Dose;Brasília
+22;M;10/07/2021;1ª Dose;Goiânia
