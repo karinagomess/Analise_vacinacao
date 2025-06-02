@@ -29,6 +29,12 @@ Este projeto realiza uma análise simples dos dados de vacinação contra a COVI
 
 ---![Gráfico_dados_vacinacao](https://github.com/user-attachments/assets/65af7182-0848-4cb8-ad15-e722896181f3)
 
+📈 Exemplo de saída
+Gráfico com os tipos de dose aplicadas
+Valor da idade média impresso no terminal
+
+✍️ Autor
+Projeto desenvolvido por Karina Gomes
 
 ## ▶️ Como usar
 
