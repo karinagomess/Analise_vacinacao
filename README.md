@@ -43,4 +43,4 @@ Projeto desenvolvido por Karina Gomes
 ```bash
 git clone https://github.com/karinagomess/Analise_vacinacao.git
 cd Analise_vacinacao
-![dados_vacinacao.csv](https://github.com/user-attachments/files/20543173/dados._vacinacao.csv)
+![dados_vacinacao.csv](https://github.com/user-attachments/files/20543173/dados_vacinacao.csv)
